@@ -10,7 +10,7 @@ scanf("%f",&salary);
 tax=salary*10/100;
 printf("%d\n",id);
 printf("%s\n",name);
-printf("%.2f\n",salary);
+printf("%f\n",salary);
 printf("%.2f\n",tax);
 return 0;
 }

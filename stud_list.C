@@ -10,6 +10,6 @@ for(i=0;i<n;i++)
 scanf("%s",name[i]);
 printf("First %d students are:\n",n);
 for(i=0;i<n;i++)
-printf("%s\n",name[i]);
+printf("%s \n",name[i]);
 return 0;
 }
